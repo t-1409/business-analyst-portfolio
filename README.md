@@ -20,14 +20,10 @@
 ## 📈 Dashboard Gallery
 
 | Dashboard | Preview |
-|---:|:---:|
-| **Workforce Dashboard** | <img src="dashboards/Workforce_db.png" width="350" alt="Workforce Dashboard"> |
-
-| **Employee Retention** | <img src="dashboards/emp_retention_db.png" width="350" alt="Employee Retention"> |
-
-| **Attrition Dashboard** | <img src="dashboards/attrition_db.png" width="350" alt="Attrition Dashboard"> |
-
----
+|----------|:--------:|
+| **Workforce Dashboard** <br><br> | <img src="dashboards/Workforce_db.png" width="350"> <br><br> |
+| **Employee Retention Dashboard** <br><br> | <img src="dashboards/emp_retention_db.png" width="350"> <br><br> |
+| **Attrition Dashboard** | <img src="dashboards/attrition_db.png" width="350"> |
 
 ## 🔎 Case Studies (Coming Soon)
 Detailed business case studies with problem, approach, analysis, insights & recommendations. (Will add PDFs/MD files to `/case-studies`.)
