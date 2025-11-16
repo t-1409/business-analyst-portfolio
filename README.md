@@ -1,81 +1,43 @@
-# 📊 Business Analyst Portfolio  
+<h1 align="center">📊 Business Analyst Portfolio — Tanushree Avinash Angirwal</h1>
 
-Welcome to my **Business Analyst Portfolio** — a collection of dashboards, analyses, documentation, and other projects that highlight my skills in business analysis, data understanding, and data storytelling.
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?style=for-the-badge" alt="Power BI">
+  <img src="https://img.shields.io/badge/Excel-Analytics-brightgreen?style=for-the-badge" alt="Excel">
+  <img src="https://img.shields.io/badge/SQL-Data%20Querying-blue?style=for-the-badge" alt="SQL">
+  <img src="https://img.shields.io/badge/Business%20Analysis-BA%20Skills-purple?style=for-the-badge" alt="BA">
+</p>
 
-This portfolio reflects my journey of learning and applying:
+<p align="center">👋 Hi, I'm **Tanushree** — an aspiring Business Analyst focused on translating data into clear business decisions.</p>
 
-- Business Analysis  
-- Dashboard Development  
-- SQL  
-- Documentation (BRD, FRD, User Stories)  
-- Data visualization & storytelling  
+<p align="center">
+  <strong>📫 Connect:</strong>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> •
+  <a href="mailto:your-email@example.com">Email</a>
+</p>
 
----
+## 📈 Dashboard Gallery
 
-## 🟣 Dashboards (Power BI / Excel)
-
-This section showcases dashboards I have built using Power BI and Excel.
-
-### 🔹 Dashboard Screenshots  
-All screenshots are available in the **/dashboards** folder.
-
-Examples include:
-
-- Sales Performance Dashboard  
-- Customer Insights Dashboard  
-- KPI Tracking Dashboard  
-
-More dashboards will be added as I continue to improve and build new projects.
+| Dashboard | Preview |
+|---:|:---:|
+| **Sales Performance** | <img src="dashboards/sales-dashboard.png" width="350" alt="Sales Dashboard"> |
+| **Customer Insights** | <img src="dashboards/customer-insights.png" width="350" alt="Customer Insights"> |
 
 ---
 
-## 🔵 Case Studies (Coming Soon)
-
-This section will include detailed business case studies involving:
-
-- Problem statements  
-- Data cleaning  
-- Analysis  
-- Insights & recommendations  
-- Business outcomes  
-
-Case studies will be added in the **/case-studies** folder.
+## 🔎 Case Studies (Coming Soon)
+Detailed business case studies with problem, approach, analysis, insights & recommendations. (Will add PDFs/MD files to `/case-studies`.)
 
 ---
 
-## 🟢 SQL Projects (Coming Soon)
-
-This section will include SQL files demonstrating:
-
-- Data extraction  
-- Joins  
-- Aggregations  
-- KPI calculations  
-- Real-world query solutions  
-
-All SQL will be available in the **/sql** folder.
+## 🧾 SQL Scripts
+SQL scripts demonstrating joins, aggregations, and KPI logic are stored in `/sql`.
 
 ---
 
-## 🟠 Business Documentation (Coming Soon)
+## 📁 Documentation
+BRDs, FRDs and process documents will appear in `/documentation`.
 
-I will add:
+<p align="center">✨ More projects coming soon — feel free to connect!</p>
 
-- BRD (Business Requirement Document)  
-- FRD (Functional Requirement Document)  
-- User Stories  
-- Process Flows  
-
-These will be available in the **/documentation** folder.
 
 ---
-
-## 📬 Connect With Me  
-
-**LinkedIn:** (https://www.linkedin.com/in/tanushree-angirwal-008344362/)  
-**Email:** (tanushreeangirwal@gmail.com)  
-
----
-
-Thank you for visiting my portfolio!  
-More projects and case studies will be added as I continue learning and building.
