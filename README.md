@@ -21,11 +21,11 @@
 
 | Dashboard | Preview |
 |---:|:---:|
-| **Workforce Dashboard** | <img src="dashboards/Workforce_db.png" width="350" alt="Workforce Dashboard"> <br>|
+| **Workforce Dashboard** | <img src="dashboards/Workforce_db.png" width="350" alt="Workforce Dashboard"> |
 
-| **Employee Retention** | <img src="dashboards/emp_retention_db.png" width="350" alt="Employee Retention"><br> |
+| **Employee Retention** | <img src="dashboards/emp_retention_db.png" width="350" alt="Employee Retention"> |
 
-| **Attrition Dashboard** | <img src="dashboards/attrition_db.png" width="350" alt="Attrition Dashboard"> <br>|
+| **Attrition Dashboard** | <img src="dashboards/attrition_db.png" width="350" alt="Attrition Dashboard"> |
 
 ---
 
