@@ -19,27 +19,23 @@
 
 ## 📈 Dashboard Gallery
 
-<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <h3>Workforce Dashboard</h3>
+      <img src="dashboards/Workforce_db.png" width="350" />
+    </td>
+    <td align="center">
+      <h3>Employee Retention Dashboard</h3>
+      <img src="dashboards/emp_retention_db.png" width="350" />
+    </td>
+    <td align="center">
+      <h3>Attrition Dashboard</h3>
+      <img src="dashboards/attrition_db.png" width="350" />
+    </td>
+  </tr>
+</table>
 
-  <!-- Card 1 -->
-  <div style="display: inline-block; margin: 20px; text-align: center;">
-    <h3>Workforce Dashboard</h3>
-    <img src="dashboards/Workforce_db.png" width="350" alt="Workforce Dashboard">
-  </div>
-
-  <!-- Card 2 -->
-  <div style="display: inline-block; margin: 20px; text-align: center;">
-    <h3>Employee Retention Dashboard</h3>
-    <img src="dashboards/emp_retention_db.png" width="350" alt="Employee Retention Dashboard">
-  </div>
-
-  <!-- Card 3 -->
-  <div style="display: inline-block; margin: 20px; text-align: center;">
-    <h3>Attrition Dashboard</h3>
-    <img src="dashboards/attrition_db.png" width="350" alt="Attrition Dashboard">
-  </div>
-
-</div>
 
 ---
 
