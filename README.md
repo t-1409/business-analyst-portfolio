@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Business%20Analysis-BA%20Skills-purple?style=for-the-badge" alt="BA">
 </p>
 
-<p align="center">👋 Hi, I'm **Tanushree** — an aspiring Business Analyst focused on translating data into clear business decisions.</p>
+<p align="center">👋 Hi, I'm Tanushree — an aspiring Business Analyst focused on translating data into clear business decisions.</p>
 
 <p align="center">
   <strong>📫 Connect:</strong>
@@ -19,7 +19,7 @@
 
 | Dashboard | Preview |
 |---:|:---:|
-| **Workforce Dashboard** | <img src="dashboards/workforce_db.png" width="350" alt="Sales Dashboard"> |
+| **Workforce Dashboard** | <img src="dashboards/Workforce_db.png" width="350" alt="Workforce Dashboard"> |
 | **Employee Retention** | <img src="dashboards/emp_retention_db.png" width="350" alt="Customer Insights"> |
 | **Attrition Dashboard** | <img src="dashboards/attrition_db.png" width="350" alt="Customer Insights"> |
 
