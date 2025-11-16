@@ -19,6 +19,10 @@
 
 ## 📈 Dashboard Gallery
 
+<p align="center">
+  These dashboards showcase my ability to analyze workforce trends, identify bottlenecks, and deliver business insights through visual storytelling.
+</p>
+---
 <table>
   <tr>
     <td align="center">
@@ -36,9 +40,7 @@
   </tr>
 </table>
 
-
 ---
-
 ## 🧾 SQL Scripts
 SQL scripts demonstrating joins, aggregations, and KPI logic are stored in `/sql`.
 
@@ -49,5 +51,14 @@ BRDs, FRDs and process documents will appear in `/documentation`.
 
 <p align="center">✨ More projects coming soon — feel free to connect!</p>
 
+---
 
+## 🛠 Tools Used
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-FAE100?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
 ---
