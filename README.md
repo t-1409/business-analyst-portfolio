@@ -19,8 +19,9 @@
 
 | Dashboard | Preview |
 |---:|:---:|
-| **Sales Performance** | <img src="dashboards/sales-dashboard.png" width="350" alt="Sales Dashboard"> |
-| **Customer Insights** | <img src="dashboards/customer-insights.png" width="350" alt="Customer Insights"> |
+| **Workforce Dashboard** | <img src="dashboards/workforce_db.png" width="350" alt="Sales Dashboard"> |
+| **Employee Retention** | <img src="dashboards/emp_retention_db.png" width="350" alt="Customer Insights"> |
+| **Attrition Dashboard** | <img src="dashboards/attrition_db.png" width="350" alt="Customer Insights"> |
 
 ---
 
