@@ -1,4 +1,4 @@
-<h1 align="center">📊 Business Analyst Portfolio — Tanushree Avinash Angirwal</h1>
+<h1 align="center">📊 Business Analyst Portfolio — Tanushree Angirwal</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?style=for-the-badge" alt="Power BI">
@@ -11,8 +11,8 @@
 
 <p align="center">
   <strong>📫 Connect:</strong>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> •
-  <a href="mailto:your-email@example.com">Email</a>
+  <a href="https://www.linkedin.com/in/tanushree-angirwal-008344362/">LinkedIn</a> •
+  <a href="mailto:tanushreeangirwal@gmail.com">Email</a>
 </p>
 
 ## 📈 Dashboard Gallery
